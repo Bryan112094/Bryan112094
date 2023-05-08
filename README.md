@@ -1,5 +1,5 @@
 # Hola, soy Bryan Guevara Ascoy 👋
-### Full Stack Web Developer | Python | Flask | PHP | Laravel | JS | CSS | HTML
+### Full Stack Web Developer
 
 Soy ingeniero teleinformático titulado en 2020, a mis 28 años me he especializado de manera eficaz en el Desarrollo Web.
 <br>
