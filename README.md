@@ -27,7 +27,7 @@ Y alguna más...
 [![Instagram](https://img.shields.io/badge/Instagram-@crisbryan20-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/crisbryan20/)
 [![Facebook](https://img.shields.io/badge/Facebook-@bryan112094-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/bryan112094/)
 <br>
-[![Twitter](https://img.shields.io/badge/Twitter-@Bryan201194-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Bryan201194)
+[![Twitter](https://img.shields.io/badge/Twitter-@Bryan201194-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/BryanAscoy11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan_Guevara-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ing-bryan-guevara-ascoy)
 
 <!--
