@@ -1,7 +1,7 @@
 # Hola, soy Bryan Guevara Ascoy 👋
 ### Full Stack Web Developer
 
-Soy ingeniero teleinformático titulado en 2020, a mis 28 años me he especializado de manera eficaz en el Desarrollo Web.
+Soy ingeniero teleinformático titulado en 2022, a mis 28 años me he especializado de manera eficaz en el Desarrollo Web.
 <br>
 Me considero una persona amable, responsable, honesto, empeñoso, positivo y con visión global.
 <br>
